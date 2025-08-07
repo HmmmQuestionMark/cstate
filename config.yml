@@ -157,6 +157,7 @@ params:
   systems:
     - name: CryptPad
       category: Web Server
+      link: https://cryptpad.quasi.place
 
   # What date format to use?
   #
