@@ -143,9 +143,12 @@ params:
   # For help, see the wiki:
   # https://github.com/cstate/cstate/wiki/Customization
   categories:
-    - name: Web Server
-      description: The main web server for Quasi Place.
+    - name: Web
+      description: Web services offered by Quasi Place.
       closed: false
+    - name: Game
+      description: Game servers hosted by Quasi Place.
+      close: false
 
   # These are your systems. Change them to
   # change the amount of components.
@@ -156,8 +159,12 @@ params:
   # https://github.com/cstate/cstate/wiki/Customization
   systems:
     - name: CryptPad
-      category: Web Server
+      category: Web
       link: https://cryptpad.quasi.place
+    - name: Minecraft
+      category: Game
+      description: quasi.place
+      
 
   # What date format to use?
   #
