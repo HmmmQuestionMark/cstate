@@ -163,7 +163,6 @@ params:
       link: https://cryptpad.quasi.place
     - name: Minecraft
       category: Game
-      description: quasi.place
       
 
   # What date format to use?
