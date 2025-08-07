@@ -145,7 +145,7 @@ params:
   categories:
     - name: Web Server
       description: The main web server for Quasi Place.
-      closed: true
+      closed: false
 
   # These are your systems. Change them to
   # change the amount of components.
