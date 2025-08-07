@@ -1,8 +1,8 @@
 ---
 title: Updates to Cryptpad
-date: 2025-08-07 03:45:00
+date: 2025-08-07 11:45:00
 resolved: true
-resolvedWhen: 2025-08-07 04:45:00
+resolvedWhen: 2025-08-07 12:45:00
 severity: disrupted
 affected:
   - Cryptpad
