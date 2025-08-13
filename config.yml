@@ -161,6 +161,9 @@ params:
     - name: CryptPad
       category: Web
       link: https://cryptpad.quasi.place
+    - name: Squaremap
+      category: Web
+      link: https://map.quasi.place
     - name: Minecraft
       category: Game
       
